@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+
+    body {
+        min-height: 150vh;
+    }
+
+    #navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: #767676;
+    }
+    nav ul {
+        margin: 0px;
+        padding: 5px 0px 5px 30px;
+    }
+    nav li {
+        display: inline;
+        margin-right: 20px;
+    }
+    a {
+        text-decoration: none;
+    }
+
+
+    h2 {
+        position: relative;
+        /* top: 15px; */
+        bottom: 10;
+        left: 15px;
+    }
+    #searchbar {
+        position: absolute;
+        top: 50px;
+        right: 50px;
+    }
+
+    .first-section {
+        position: relative;
+    }
+    #left {
+        float: left;
+        width: 50%;
+        }
+    #right {
+        float: right;
+        width: 40%;
+        }
+    aside, section {
+        padding: 2px;
+        background-color: #ccc;
+        }
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+    }        
+
+
+    /* Div Square */
+
+    .squareDiv {
+        width: 60%;
+        height: 200px;
+        margin-top: 20px;
+    }    
+
+    .first {
+        background-color: red;
+        position: absolute;
+        z-index: 2;
+    }
+
+    .second {
+        background-color: blue;
+        position: absolute;
+        left: 40px;
+        top: 450px;
+        z-index: 1;
+    }
+
+    .blueSquareDiv {
+        background-color: blue;
+        height: 100px;
+        width: 100px;
+        margin: auto;
+    }
+    </style>
+
+
+<body>
+    <header>
+        <h1>Welcome!</h1>
+        <nav id="navbar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h1>On being Well-Position</h1>
+    <h2>Move me!</h2>
+    <p>I still think the h2 is where it normally sits.</p>
+    <h2>Welcome!</h2>
+    <section class="fisrt-section">
+        <form action="" id="searchbar">
+            <label for="search">Search:</label>
+            <input type="search" id="search" name="search">
+            <input type="submit" name="submit" value="Go!">
+        </form>
+    </section>
+    <div class="clearfix">
+        <section id="left">
+            <h2>Content</h2>
+            <p>Good Stuff</p>
+        </section>
+        <aside id="right"> 
+            <h2>Sidebar</h2>
+            <p>links</p>
+        </aside>
+    </div>
+    <div>
+        <div class="squareDiv first"></div>
+        <div class="squareDiv second"></div>
+    </div>
+    <div>
+        <div class="blueSquareDiv"></div>
+    </div>
+
+
+    
+</body>
+</html>
