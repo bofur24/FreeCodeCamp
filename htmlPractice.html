@@ -91,8 +91,76 @@
         background-color: blue;
         height: 100px;
         width: 100px;
-        margin: auto;
+        margin: 300px auto 0 auto;
     }
+    .blueSquareDiv1 {
+        background-color: #0000ff;
+
+    }
+    .blueSquareDiv2 {
+        background-color: hsl(240, 100%, 50%);
+
+    }
+    .yellowSquareDiv {
+        background-color: #ffff00;
+ 
+    }
+    .orangeSquareDiv {
+        background-color: #ff7f00;
+ 
+    }
+    .cyanSquareDiv {
+        background-color: #00ffff;
+ 
+    }
+    .cyanSquareDiv1 {
+        background-color: hsl(180, 100%, 50%);
+ 
+    }
+    .raspberrySquareDiv {
+        background-color: #ff007f;
+ 
+    }
+    .greenSquareDiv {
+        background-color: hsl(120, 100%, 50%);
+ 
+    }
+    
+
+
+    .inline-div {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        margin-top: 5px;
+    }
+
+    .hor-div {
+        height: 100px;
+        width: 100px;
+        margin-bottom: 5px;
+    }
+
+    .header-1 {
+        background-color: #09a7a1;
+        color: white;
+        padding: 0.25em;
+    }
+
+    .h2-1 {
+        color: #09a7a1;
+    }
+
+    .button-1 {
+        background-color: #ff790e;
+    }
+
+    .footer-1 {
+        background-color: #09a7a1;
+        color: white;
+        padding: 0.5em;
+    }
+    
     </style>
 
 
@@ -131,8 +199,42 @@
         <div class="squareDiv first"></div>
         <div class="squareDiv second"></div>
     </div>
+    
     <div>
         <div class="blueSquareDiv"></div>
+    </div>
+    <div>
+        <div class="blueSquareDiv1 inline-div"></div>
+        <div class="yellowSquareDiv inline-div"></div>
+    </div>
+    <div>
+        <div class="orangeSquareDiv hor-div"></div>
+        <div class="cyanSquareDiv hor-div"></div>
+        <div class="raspberrySquareDiv hor-div"></div>
+    </div>
+    <div>
+        <header class="header-1">
+            <h1>Cooking with FCC!</h1>
+          </header>
+          <main>
+            <article>
+              <h2 class="h2-1">Machine Learning in the Kitchen</h2>
+              <p>Join this two day workshop that walks through how to implement cutting-edge snack-getting algorithms with a command line interface. Coding usually involves writing exact instructions, but sometimes you need your computer to execute flexible commands, like <code>fetch Pringles</code>.</p>
+              <button class="button-1">Sign Up</button>
+            </article>
+            <article>
+              <h2 class="h2-1">Bisection Vegetable Chopping</h2>
+              <p>This week-long retreat will level-up your coding ninja skills to actual ninja skills. No longer is the humble bisection search limited to sorted arrays or coding interview questions, applying its concepts in the kitchen will have you chopping carrots in O(log n) time before you know it.</p>
+              <button class="button-1">Sign Up</button>
+            </article>
+          </main>
+          <br>
+          <footer class="footer-1">&copy; 2018 FCC Kitchen</footer>
+    </div>
+    <div>
+        <div class="greenSquareDiv inline-div"></div>
+        <div class="cyanSquareDiv1 inline-div"></div>
+        <div class="blueSquareDiv2 inline-div"></div>
     </div>
 
 
