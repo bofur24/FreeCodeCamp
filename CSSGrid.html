@@ -7,10 +7,20 @@
 </head>
 <style>
     .d1{background:LightSkyBlue;}
-    .d2{background:LightSalmon;}
-    .d3{background:PaleTurquoise;}
+    .d2{
+      background:LightSalmon;
+      justify-self: center;
+      }
+    .d3{
+      background:PaleTurquoise;
+      align-self: end;
+      }
     .d4{background:LightPink;}
-    .d5{background:PaleGreen;}
+    .d5{
+      background:PaleGreen;
+      grid-column: 2 / 4;
+      grid-row: 2/4;
+    }
   
     .container {
       font-size: 40px;
@@ -20,7 +30,8 @@
       grid-template-columns: 1fr 1fr 1fr;
       grid-template-rows: 1fr 1fr 1fr;  
       grid-gap: 10px 20px;
-
+      justify-items: center;
+      align-items: end;
     }
   </style>
 
