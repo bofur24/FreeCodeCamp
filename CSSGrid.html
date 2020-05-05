@@ -9,30 +9,38 @@
     .d1{background:LightSkyBlue;}
     .d2{
       background:LightSalmon;
-      justify-self: center;
+      /* justify-self: center; */
       }
     .d3{
       background:PaleTurquoise;
-      align-self: end;
+      /* align-self: end; */
       }
     .d4{background:LightPink;}
     .d5{
       background:PaleGreen;
-      grid-column: 2 / 4;
-      grid-row: 2/4;
+      /* grid-column: 2 / 4;
+      grid-row: 2/4; */
+      /* grid-area: footer; */
+      grid-area: 3/1/4/4;
     }
   
     .container {
       font-size: 40px;
+      /* width: 100%; */
+      min-height: 300px;
       width: 100%;
       background: LightGray;
       display: grid;  
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: repeat(3,1fr);
       grid-template-rows: 1fr 1fr 1fr;  
-      grid-gap: 10px 20px;
-      justify-items: center;
-      align-items: end;
-    }
+      grid-gap: 10px;
+      /* justify-items: center;
+      align-items: end; */
+      /* grid-template-areas: 
+      "header header header"
+      ". content content"
+      "footer footer footer";*/
+    } 
   </style>
 
 
