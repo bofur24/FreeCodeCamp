@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    background-color: #c4ced4;
+}
+
+#main {
+    background-color: #005c5c;
+    padding: 2em;
+    margin: 1.5em;
+    border-radius: 1.5em;
+}
+
+header,
+#img-div {
+    padding: 1.5em;
+    margin: 1.5em 1.5em 0 1.5em;
+    border-radius: 1.5em;
+}
+
+header {
+    text-align: center;
+    background-color: #002c56;
+    color: #fff;
+}
+
+header p {
+    font-size: 1.5em;
+}
+
+#title {
+    font-size: 3em;
+}
+
+#img-div {
+    background-color: #fff;
+    color: #000;
+    
+}
+
+img {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#image {
+    width: 350px;
+    height: 500px;
+}
