@@ -15,13 +15,16 @@ body {
 }
 
 header,
-#img-div {
+#img-div,
+#tribute-info,
+#tribute-links {
     padding: 1.5em;
-    margin: 1.5em 1.5em 0 1.5em;
+    margin: .5em .5em 0 .5em;
     border-radius: 1.5em;
 }
 
-header {
+header,
+#tribute-info {
     text-align: center;
     background-color: #002c56;
     color: #fff;
@@ -35,7 +38,8 @@ header p {
     font-size: 3em;
 }
 
-#img-div {
+#img-div,
+#tribute-links {
     background-color: #fff;
     color: #000;
     
@@ -43,10 +47,41 @@ header p {
 
 img {
     max-width: 100%;
+    display: block;
+    height: auto;
     margin: 0 auto;
 }
 
 #image {
-    width: 350px;
-    height: 500px;
+    width: 400px;
+    height: 600px;
+    border: .75em #002c56 solid;
+    border-radius: 1.5em;
+}
+
+#img-caption {
+    font-size: 1.2em;
+    text-align: center;
+    padding: .5em;
+}
+
+#tribute-info h2 {
+    font-size: 2em;
+}
+
+#tribute-info {
+    font-size: 1.25em;
+}
+
+#tribute-info strong{
+    font-size: 1.30em;
+    font-weight: 600;
+}
+
+#tribute-info ul {
+    list-style-type: none;    
+}
+
+#tribute-info li {
+    padding: .5em 0 0 0;
 }
