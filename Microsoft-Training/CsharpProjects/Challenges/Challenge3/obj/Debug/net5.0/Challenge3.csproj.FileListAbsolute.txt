@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.AssemblyInfo.cs
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\bin\Debug\net5.0\Challenge3.exe
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\bin\Debug\net5.0\Challenge3.deps.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\bin\Debug\net5.0\Challenge3.runtimeconfig.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\bin\Debug\net5.0\Challenge3.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\bin\Debug\net5.0\Challenge3.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\bin\Debug\net5.0\ref\Challenge3.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\bin\Debug\net5.0\Challenge3.pdb
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\ref\Challenge3.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.pdb
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge3\obj\Debug\net5.0\Challenge3.genruntimeconfig.cache
