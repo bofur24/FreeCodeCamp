@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfo.cs
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\bin\Debug\net5.0\Challenge2.exe
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\bin\Debug\net5.0\Challenge2.deps.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\bin\Debug\net5.0\Challenge2.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\bin\Debug\net5.0\ref\Challenge2.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\bin\Debug\net5.0\Challenge2.pdb
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\ref\Challenge2.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.pdb
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\Challenge2\obj\Debug\net5.0\Challenge2.genruntimeconfig.cache

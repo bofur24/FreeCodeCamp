@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\bin\Debug\net5.0\TestProject1.exe
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\bin\Debug\net5.0\TestProject1.deps.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\bin\Debug\net5.0\TestProject1.runtimeconfig.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\bin\Debug\net5.0\TestProject1.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\bin\Debug\net5.0\TestProject1.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\bin\Debug\net5.0\ref\TestProject1.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\bin\Debug\net5.0\TestProject1.pdb
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.AssemblyInfo.cs
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\ref\TestProject1.dll
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.pdb
+C:\Users\light\OneDrive\Files\Programming\MicrosoftCSharp\CsharpProjects\TestProject1\obj\Debug\net5.0\TestProject1.genruntimeconfig.cache
